@@ -28,6 +28,6 @@ I am a Full Stack Developer and computer science student at Padjadjaran Universi
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irka021002&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api?username=riansyh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=irka021002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irka021002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
